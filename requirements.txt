@@ -1,0 +1,5 @@
+the following python libraries are required for this project:
+a. pandas (for reading the .csv file)
+b. matplotlib (for plotting)
+c. numpy (i have used NumPy's size function once, i know python has a default size function but i forgot the syntax lol)
+d. jupyter notebook (not compulsory as iirc the .ipynb format is supported on VSCode as well)
